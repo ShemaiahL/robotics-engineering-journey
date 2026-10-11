@@ -30,7 +30,19 @@ This is my first Arduino project as I begin learning electronics, embedded syste
 The LED should turn on for 0.1 seconds and off for 0.1 seconds, completing five blinking cycles per second.
 
 ## Testing and Results
-Add your observations here after testing the code on the Arduino board.
+I connected my Arduino UNO to my computer using a USB cable and uploaded my LED Blink program through the Arduino IDE.
+
+After uploading the code, I observed the LED blinking on and off successfully.
+
+The program used digital pin 13 to control the LED:
+
+The LED remained ON for 100 milliseconds.
+
+The LED remained OFF for 100 milliseconds.
+
+The process repeated continuously.
+
+Result: The Arduino successfully executed the program, demonstrating how digital output commands can control an electronic component.
 
 ## What I Learned
 This project introduced me to digital outputs, basic Arduino programming, and how software instructions can control electronic hardware.
